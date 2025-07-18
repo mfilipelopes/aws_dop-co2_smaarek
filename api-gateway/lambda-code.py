@@ -1,5 +1,5 @@
 import json
-
+# teste
 def lambda_handler(event, context):
     body = "Hello from Lambda!"
     statusCode = 200
